@@ -20,6 +20,7 @@
                     <li> Factory - <a href="app/Factory/index.php">Ver mais</a>  </li>
                     <li> Strategy - <a href="app/Strategy/index.php">Ver mais</a>  </li>
                     <li> Composite - <a href="app/Composite/index.php">Ver mais</a>  </li>
+                    <li> Adapter - <a href="app/Adapter/index.php">Ver mais</a>  </li>
                 </ul>
             </p>
         </div>

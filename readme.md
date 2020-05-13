@@ -11,6 +11,7 @@ Segue abaixo a lista dos padroes com seus exemplos:
 - Factory (implementacao de uma fabrica de comidas).
 - Strategy (implementacao de varias conexoes com o banco de dados).
 - Composite (implementacao de arvore de pastas x arquivos).
+- Adapter (implementacao de adaptacao de bibliotecas antigas).
 
 ## Conclusao
 Este repositorio está sendo para estudos particulares

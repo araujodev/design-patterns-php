@@ -10,6 +10,7 @@ Segue abaixo a lista dos padroes com seus exemplos:
 - Facade (implementacao Checkout de processo de compra).
 - Factory (implementacao de uma fabrica de comidas).
 - Strategy (implementacao de varias conexoes com o banco de dados).
+- Composite (implementacao de arvore de pastas x arquivos).
 
 ## Conclusao
 Este repositorio está sendo para estudos particulares

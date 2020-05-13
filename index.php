@@ -18,6 +18,7 @@
                     <li> Singleton - <a href="app/Singleton/index.php">Ver mais</a>  </li>
                     <li> Facade - <a href="app/Facade/index.php">Ver mais</a>  </li>
                     <li> Factory - <a href="app/Factory/index.php">Ver mais</a>  </li>
+                    <li> Strategy - <a href="app/Strategy/index.php">Ver mais</a>  </li>
                 </ul>
             </p>
         </div>

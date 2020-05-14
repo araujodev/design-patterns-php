@@ -12,6 +12,7 @@ Segue abaixo a lista dos padroes com seus exemplos:
 - Strategy (implementacao de varias conexoes com o banco de dados).
 - Composite (implementacao de arvore de pastas x arquivos).
 - Adapter (implementacao de adaptacao de bibliotecas antigas).
+- Observable (implementacao de atualizacao de clima - temperatura).
 
 ## Conclusao
 Este repositorio está sendo para estudos particulares

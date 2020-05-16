@@ -22,6 +22,7 @@
                     <li> Composite - <a href="app/Composite/index.php">Ver mais</a>  </li>
                     <li> Adapter - <a href="app/Adapter/index.php">Ver mais</a>  </li>
                     <li> Observable - <a href="app/Observable/index.php">Ver mais</a>  </li>
+                    <li> Decorator - <a href="app/Decorator/index.php">Ver mais</a>  </li>
                 </ul>
             </p>
         </div>

@@ -13,6 +13,7 @@ Segue abaixo a lista dos padroes com seus exemplos:
 - Composite (implementacao de arvore de pastas x arquivos).
 - Adapter (implementacao de adaptacao de bibliotecas antigas).
 - Observable (implementacao de atualizacao de clima - temperatura).
+- Decorator (implementacao de uma fabrica de sorvetes).
 
 ## Conclusao
 Este repositorio está sendo para estudos particulares
